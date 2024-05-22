@@ -1,0 +1,18 @@
+display:flex,
+    (
+        aling-items:
+        aling-content:
+        justfy-content:
+        flex-derection:
+        flrx-wrap:
+
+    )
+    inline,
+    inline-block,
+    block,
+    none,
+    grild,
+
+    min-height:100vh
+    min-widht-satarting point
+    max-width-ending point
